@@ -20,7 +20,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/anurag-kumar-jha-680419204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anurag-kumar-jha-680419204" height="30" width="40" /></a>
 <a href="https://instagram.com/anurag.jha30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anurag.jha30" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/anurag kumar jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anurag kumar jha" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/f20200128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="f20200128" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/anuragkj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="anuragkj" height="30" width="40" /></a>
 </p>
