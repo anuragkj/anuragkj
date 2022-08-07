@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Flutter, Tensorflow, AWS**
 
-- 💬 Ask me about **Python, HTML, CSS, JavaScript, Java, C, SQL, PHP, Matlab**
+- 💬 Ask me about **Python, HTML, CSS, JavaScript, Java, C, SQL, PHP**
 
 - 📫 How to reach me **f20200128@dubai.bits-pilani.ac.in**
 
