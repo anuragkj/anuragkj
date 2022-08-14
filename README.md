@@ -1,4 +1,4 @@
-<h1 >Hi 👋, I'm Anurag Kumar Jha</h1>
+<h1 align="center">Hi 👋, I'm Anurag Kumar Jha</h1>
 <h3 align="center">Computer Science Undergrad from Birla Institute of Science and Technology</h3>
 
 
