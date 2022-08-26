@@ -7,7 +7,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **Flutter, Tensorflow, AWS**
+- 🌱 I’m currently learning **React, Flutter, Tensorflow, AWS**
 
 - 💬 Ask me about **Python, HTML, CSS, JavaScript, Java, C, SQL, PHP**
 
