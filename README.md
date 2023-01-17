@@ -33,7 +33,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragkj&" alt="anuragkj" /></p>
 
-<h4> GitHub Stats</h2>
+<!-- <h4> GitHub Stats</h2>
 <p align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=anuragkj&theme=react-dark&hide_border=true&area=true">
-  </p>  
+  </p>   -->
