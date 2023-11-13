@@ -5,15 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuragkj" alt="anuragkj" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-- 🌱 I’m currently learning **React, Flutter, Tensorflow, AWS**
-
-- 💬 Ask me about **Python, HTML, CSS, JavaScript, Java, C, SQL, PHP**
-
 - 📫 How to reach me **f20200128@dubai.bits-pilani.ac.in**
-
-- ⚡ Fun fact **I love Science. If its computer, even better!**
 
 <br>
 <h3 align="left">Connect with me:</h3>
