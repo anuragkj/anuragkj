@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragkj&label=Profile%20views&color=0e75b6&style=flat" alt="anuragkj" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuragkj" alt="anuragkj" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuragkj-ma&rank=-C,-B" alt="anuragkj" /></a> </p>
 
 - 📫 How to reach me **f20200128@dubai.bits-pilani.ac.in**
 
