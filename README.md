@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuragkj&title=MultiLanguage,Repositories,Commits,Stars,PullRequest,Followers" alt="anuragkj" /></a> </p>
 
-- 📫 How to reach me **f20200128@dubai.bits-pilani.ac.in**
+- 📫 How to reach me **anurag.jha.in@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
