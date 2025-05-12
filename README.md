@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anurag Kumar Jha</h1>
-<h3 align="center">Computer Science Undergrad from Birla Institute of Science and Technology</h3>
+<h3 align="center">Softaware Engineering Graduate from carnegie Mellon University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragkj&label=Profile%20views&color=0e75b6&style=flat" alt="anuragkj" /> </p>
 
